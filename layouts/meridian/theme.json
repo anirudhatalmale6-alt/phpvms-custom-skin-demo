@@ -1,0 +1,5 @@
+{
+  "name": "meridian",
+  "description": "Custom skin demo - extends 'seven', overrides only the layout, nav and home page",
+  "extends": "seven"
+}
